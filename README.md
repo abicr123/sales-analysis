@@ -2,7 +2,7 @@
 
 This repository showcases an end-to-end **Sales Analysis Dashboard** built using **Microsoft Power BI**, focused on beverage brand performance across regions, time, and retailers.
 
-![Sales Summary](screenshots/Screenshot%20(9).png)
+![Sales Summary](Screenshot%20(9).png)
 
 ## 📈 Key Insights
 
@@ -24,11 +24,11 @@ This repository showcases an end-to-end **Sales Analysis Dashboard** built using
 - 🔹 Top/Bottom Cities by Sales  
 - 🔹 Brand Unit Sales and Pricing Comparison  
 
-![Waterfall Analysis](screenshots/Screenshot%20(10).png)
-![Monthly Sales Trends](screenshots/Screenshot%20(11).png)
-![Quarterly Sales](screenshots/Screenshot%20(12).png)
-![Regional Sales Overview](screenshots/Screenshot%20(13).png)
-![Brand & Retailer Breakdown](screenshots/Screenshot%20(14).png)
+![Waterfall Analysis](Screenshot%20(10).png)
+![Monthly Sales Trends](Screenshot%20(11).png)
+![Quarterly Sales](Screenshot%20(12).png)
+![Regional Sales Overview](Screenshot%20(13).png)
+![Brand & Retailer Breakdown](Screenshot%20(14).png)
 
 ## 📁 Files
 
